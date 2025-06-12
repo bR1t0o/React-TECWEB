@@ -16,7 +16,11 @@ If you are developing a production application, we recommend using TypeScript wi
 PARA A EXECUÇÃO DO PROJETO:
 
 Instale as dependências do projeto com o comando: npm install
+
+
 Iniciaize o json-server com o comando: npm run backend
+
+
 Depois basta iniciar o projeto com o comando : npm run dev
 
 
